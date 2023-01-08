@@ -5,7 +5,7 @@ import Values from "values.js";
 
 function App() {
   const [error, setError] = useState(false);
-  const [list, setList] = useState(new Values("#a020f0").all(10));
+  const [list, setList] = useState(new Values("#5D3FD3").all(10));
   const colorValue = useRef();
 
   const handleSubmit = (e) => {

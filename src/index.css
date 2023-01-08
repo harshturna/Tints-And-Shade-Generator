@@ -74,7 +74,7 @@ h4 {
 }
 p {
   margin-bottom: 1.25rem;
-  color: var(--clr-grey-5);
+  /* color: var(--clr-grey-5); */
 }
 @media screen and (min-width: 800px) {
   h1 {
@@ -198,6 +198,14 @@ input.error {
 }
 .color-light .percent-value {
   color: var(--clr-white);
+}
+
+.color-white {
+  color: rgb(244, 241, 241);
+}
+
+.color-black {
+  color: rgb(19, 14, 14);
 }
 
 .alert {
