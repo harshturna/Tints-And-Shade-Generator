@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Tints-And-Shade-Generator/static/css/main.71345ad2.css",
-    "main.js": "/Tints-And-Shade-Generator/static/js/main.b91483fe.js",
+    "main.js": "/Tints-And-Shade-Generator/static/js/main.6d247905.js",
     "index.html": "/Tints-And-Shade-Generator/index.html",
     "main.71345ad2.css.map": "/Tints-And-Shade-Generator/static/css/main.71345ad2.css.map",
-    "main.b91483fe.js.map": "/Tints-And-Shade-Generator/static/js/main.b91483fe.js.map"
+    "main.6d247905.js.map": "/Tints-And-Shade-Generator/static/js/main.6d247905.js.map"
   },
   "entrypoints": [
     "static/css/main.71345ad2.css",
-    "static/js/main.b91483fe.js"
+    "static/js/main.6d247905.js"
   ]
 }
