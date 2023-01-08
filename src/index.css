@@ -170,6 +170,19 @@ input {
     font-size: 0.85rem;
   }
 }
+@media screen and (max-width: 720px) {
+  .btn {
+    border-radius: var(--radius);
+    margin-top: 0.4rem;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  form {
+    margin-right: 1rem;
+  }
+}
+
 input.error {
   border: 2px solid rgb(221, 66, 66);
 }
