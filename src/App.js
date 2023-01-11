@@ -34,7 +34,7 @@ function App() {
           <input
             type="text"
             ref={colorValue}
-            placeholder="#5D3FD3"
+            placeholder="#5d3fd3"
             className={error ? "error" : ""}
           />
           <button className="btn">Generate</button>
